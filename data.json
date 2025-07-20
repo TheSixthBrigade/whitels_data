@@ -1,0 +1,19 @@
+{
+  "owners": {},
+  "stores": {
+    "Defense Studios": {
+      "owner_id": "0",
+      "products": {
+        "BreachCore": {
+          "whitelist": [
+            6899521,
+            2977165188,
+            462667946
+          ]
+        }
+      }
+    }
+  },
+  "staff": [],
+  "blacklist": []
+}
